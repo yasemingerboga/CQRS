@@ -1,0 +1,18 @@
+
+†
+java:S1450"ZRemove the "accountName" field and declare it as a local variable in the relevant methods.(ßÛ“HĞRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ŞèåHÏRMINORZ
+CODE_SMELL
+[
+java:S1068"/Remove this unused "accountName" private field.(ßÛ“HÓRMAJORZ
+CODE_SMELL
+_
+java:S6212"/Declare this local variable with "var" instead.(´ç‰ùÿÿÿÿHÒRINFOZ
+CODE_SMELL
+`
+java:S1068"/Remove this unused "description" private field.(ÇÓæâıÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+‹
+java:S1450"ZRemove the "description" field and declare it as a local variable in the relevant methods.(ÇÓæâıÿÿÿÿHÑRMINORZ
+CODE_SMELL

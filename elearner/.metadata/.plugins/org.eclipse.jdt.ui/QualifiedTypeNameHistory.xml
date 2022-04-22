@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.config.JpaRepositoryConfigExtension"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="lombok.Builder"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.turkcell.elearner.persistence.AccountTypeRepository"/>
+    <fullyQualifiedTypeName name="com.turkcell.elearner.domain.AccountType"/>
+    <fullyQualifiedTypeName name="org.axonframework.spring.stereotype.Aggregate"/>
+    <fullyQualifiedTypeName name="com.turkcell.elearner.application.features.commands.create.CreateAccountTypeAggregate"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.BeanUtils"/>
+    <fullyQualifiedTypeName name="org.axonframework.modelling.command.AggregateLifecycle"/>
+    <fullyQualifiedTypeName name="org.axonframework.eventhandling.EventHandler"/>
+    <fullyQualifiedTypeName name="org.axonframework.commandhandling.CommandHandler"/>
+    <fullyQualifiedTypeName name="com.turkcell.elearner.application.features.commands.create.AccountTypeCreatedEvent"/>
+    <fullyQualifiedTypeName name="org.axonframework.commandhandling.gateway.CommandGateway"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.turkcell.elearner.application.features.commands.create.CreateAccountTypeCommand"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.axonframework.modelling.command.AggregateIdentifier"/>
+    <fullyQualifiedTypeName name="org.axonframework.eventsourcing.EventSourcingHandler"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.turkcell.elearner.ws.models.CreateAccountTypeModel"/>
+    <fullyQualifiedTypeName name="com.turkcell.elearner.application.features.accountTypes.commands.create.CreateAccountTypeCommand"/>
+    <fullyQualifiedTypeName name="org.axonframework.modelling.command.TargetAggregateIdentifier"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package com.turkcell.elearner.ws.models;
+
+public class CreateAccountTypeModel {
+
+}

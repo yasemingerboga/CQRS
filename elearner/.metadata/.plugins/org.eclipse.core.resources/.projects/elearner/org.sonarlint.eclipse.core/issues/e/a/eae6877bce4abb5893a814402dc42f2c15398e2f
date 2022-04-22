@@ -1,0 +1,6 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ЧЮиеHЧRMINORZ
+CODE_SMELL
+Z
+java:S6212"/Declare this local variable with "var" instead.(СЫлюHШRINFOZ
+CODE_SMELL
